@@ -82,7 +82,7 @@ docker exec api-container alembic upgrade head
 
 **5. Acesse a API**
 A API estará disponível no seu navegador no endereço:
-[http://localhost:8000/docs](http://localhost:8000/docs)
+[http://3.14.153.23:8000/docs](http://3.14.153.23:8000/docs)
 
 ---
 
